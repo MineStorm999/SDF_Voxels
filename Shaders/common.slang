@@ -1,0 +1,1 @@
+static constexpr uint INVALID = uint::maxValue;
